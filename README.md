@@ -4,6 +4,7 @@ It does not contain something magic or anything else. I shared it because it cou
 
 ### Using
 Building(repo's root folder): `docker-compose up`
+
 Going inside the container: `docker exec -it <container_name> bash`
 
 ### Attention
